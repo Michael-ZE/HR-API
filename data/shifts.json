@@ -2,8 +2,8 @@
   {
     "id": "os20lq1683508822763",
     "type": "Medical",
-    "startdate": "03.03.2023",
-    "enddate": "06.03.2023",
+    "startdate": "03/03.2023",
+    "enddate": "06/03.2023",
     "days": "4",
     "status": "Approved",
     "comment": "Thx"
@@ -11,8 +11,8 @@
   {
     "id": "2xykhk1683509301861",
     "type": "Rest",
-    "startdate": "20.03.2023",
-    "enddate": "26.03.2023",
+    "startdate": "20/03/2023",
+    "enddate": "26/03/2023",
     "days": "7",
     "status": "Not approved",
     "comment": "-"
@@ -20,8 +20,8 @@
   {
     "id": "u22ndu1683509345761",
     "type": "Rest",
-    "startdate": "11.04.2023",
-    "enddate": "12.04.2023",
+    "startdate": "11/04/2023",
+    "enddate": "12/04/2023",
     "days": "2",
     "status": "Approved",
     "comment": "Ok."
