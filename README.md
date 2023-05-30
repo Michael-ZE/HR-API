@@ -12,7 +12,8 @@ Node JS CRUD API Example
 - [JSON file as storage](#json-file-as-storage)
 - [DB (MySQL) as storage](#db-mysql-as-storage)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- In case of issues regarding the port, please use:
+npx kill-port <portnumber>                          -->
 
 ## Install
 
